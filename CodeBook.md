@@ -19,20 +19,20 @@ The data in the file has
 * 30 subjects (with unique identifier),
 * 6 activities, as names above, and
 * Each of the measurement variables is either the mean (mean()) or the standard deviation (std()) of one of the below - the measurements indicated with an XYZ will be in one of 3 dimensions, i.e. in the X, Y or Z dimension:
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+ * tBodyAcc-XYZ
+ * tGravityAcc-XYZ
+ * tBodyAccJerk-XYZ
+ * tBodyGyro-XYZ
+ * tBodyGyroJerk-XYZ
+ * tBodyAccMag
+ * tGravityAccMag
+ * tBodyAccJerkMag
+ * tBodyGyroMag
+ * tBodyGyroJerkMag
+ * fBodyAcc-XYZ
+ * fBodyAccJerk-XYZ
+ * fBodyGyro-XYZ
+ * fBodyAccMag
+ * fBodyAccJerkMag
+ * fBodyGyroMag
+ * fBodyGyroJerkMag
