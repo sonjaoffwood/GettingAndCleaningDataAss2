@@ -16,4 +16,4 @@ The script performs the following transformation on 'total' in the given order:
 * using the melt function, transforms the data into longform data with subject and activity being the IDs, and ultimately
 * retransforms the data into wideform data using the dcast function.
 
-The final data is written to a text file in the original 
+The final data is written to a text file in the original working directory, called 'finaldata.txt'.
