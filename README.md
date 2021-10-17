@@ -1,4 +1,4 @@
-##Readme for script run_analysis.R
+## Readme for script run_analysis.R
 
 ### Reading in the datasets
 The run_analysis.R script assumes that the data is downloaded into the working directory of the user. It assumes the data is in an unzipped folder called **"UCI HAR Dataset"**.
